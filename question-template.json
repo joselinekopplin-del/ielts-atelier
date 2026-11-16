@@ -1,0 +1,23 @@
+[
+  {
+    "id": "personal-001",
+    "skill": "reading",
+    "module": "both",
+    "type": "填空",
+    "title": "Community garden · 社区花园",
+    "topic": "城市与环境",
+    "level": "基础",
+    "groupId": "personal-garden",
+    "passage": "The Riverside community garden is open to everyone. Volunteers meet there each Saturday morning. They collect rainwater in large tanks and use it to water vegetables during dry weather. The garden also runs free workshops for local families.",
+    "prompt": "Complete the sentence. Write ONE WORD ONLY from the passage. Volunteers meet at the garden each ______ morning.",
+    "answer": ["Saturday"],
+    "explanation": "原文第二句直接指出志愿者每周 Saturday morning 见面；仅填 Saturday。",
+    "vocabulary": [
+      {
+        "word": "volunteer",
+        "meaning": "志愿者；自愿参与",
+        "example": "A volunteer helps maintain the community garden."
+      }
+    ]
+  }
+]
